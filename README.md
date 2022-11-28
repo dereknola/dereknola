@@ -1,6 +1,6 @@
-### Hi there 👋
+[![Derek Nola's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereknola&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Derek Nola's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereknola)](https://github.com/anuraghazra/github-readme-stats)
+I work on [RKE2](https://github.com/rancher/rke2) and [K3s](https://github.com/k3s-io/k3s) at SUSE.
 
 <!--
 **dereknola/dereknola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
