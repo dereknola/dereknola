@@ -1,4 +1,3 @@
-[![Derek Nola's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereknola&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://raw.githubusercontent.com/dereknola/dereknola/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 I work on [RKE2](https://github.com/rancher/rke2) and [K3s](https://github.com/k3s-io/k3s) at SUSE.
